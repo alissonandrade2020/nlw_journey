@@ -13,5 +13,11 @@
 
 - [X] LUCIDE
 
--> npm i lucide-react
+-> npm install lucide-react
+
+- [X] REACT ROUTER
+
+-> npm install react-router-dom
+
+-> npm install localforage match-sorter sort-by
 
